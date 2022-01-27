@@ -1,0 +1,55 @@
+
+.interativo {
+    display: flex;
+    flex-direction: column;
+    margin: 20%;
+    margin-top: 10%;
+    width: 30%;
+}
+
+
+input{
+    padding: 2%;
+    border-radius: 5%;
+    justify-content: center;
+    padding: 5%;
+    font-size: 20px;
+    border: none;
+    background-color: transparent;
+    color: #ffffff;
+    width: 100%;
+    padding: 5px 5px;
+    display: inline-block;
+    border: 0;
+    border-bottom: 1px solid #250041 ;
+    background-color: transparent;
+    outline: none;
+    min-width: 180px;
+    font-size: 1.5em;
+    transition: all .3s ease-out;
+    border-radius: 0;
+    
+}
+
+::placeholder {
+    color: #ffffff;
+    font-size: 1.5em;
+  }
+  
+button{
+    justify-content: center;
+    width:100%;
+    margin-top: 5%;
+    padding:5%;
+    font-size: 2rem;
+    border-radius: 8px;
+    border: none;
+    background-color: blueviolet;
+}
+
+input:focus::placeholder {
+    color:transparent;
+   
+}
+
+ 

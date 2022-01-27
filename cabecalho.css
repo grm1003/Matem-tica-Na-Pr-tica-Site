@@ -1,0 +1,53 @@
+
+.titulo {
+    font-size: 5rem;
+    margin: 5%;
+}
+.texto {
+    font-size: 2rem;
+   
+}
+
+.chamado{
+font-size: 3rem;
+font-weight: 600;
+margin-bottom: 8%;
+
+}
+
+
+.frase{
+    font-size: 3rem;
+    font-weight: 600;
+    
+    }
+
+.logo{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+   
+}
+
+.motivo{
+    margin-bottom: 15%;
+}
+
+
+.caixa__texto{
+  
+    width: 20%;
+    height: 30%;
+    margin-left: 2%;
+}
+
+
+.caixa__titulo {
+    display: flex;
+    margin: 10%;
+}
+
+.caixa__titulo img{
+    width: 50%;
+    height: 50%;
+}

@@ -1,0 +1,41 @@
+
+    
+
+
+.Countdown {
+    box-sizing: border-box;
+}
+
+.titulo_countdown{
+    font-size: 5rem;
+     margin: 5%; 
+    font-weight: 500;
+}
+.countdown{
+    display: flex;
+     justify-content: center;
+    transform: scale(2);
+
+}
+
+.time {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 5%;
+    border: gold 2px solid;
+    padding: 5%;
+
+}
+
+
+
+.time h2{
+    font-size: 3rem;
+    font-weight: bold;
+    line-height: 1;
+/*     margin: 0 0 0.5rem 0; */
+}
+
+
+ 
