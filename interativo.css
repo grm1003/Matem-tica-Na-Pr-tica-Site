@@ -25,7 +25,7 @@ input{
     background-color: transparent;
     outline: none;
     min-width: 180px;
-    font-size: 1.5em;
+    font-size: 1.5rem;
     transition: all .3s ease-out;
     border-radius: 0;
     
@@ -33,7 +33,7 @@ input{
 
 ::placeholder {
     color: #ffffff;
-    font-size: 1.5em;
+    font-size: 1.5rem;
   }
   
 button{
@@ -41,7 +41,7 @@ button{
     width:100%;
     margin-top: 5%;
     padding:5%;
-    font-size: 2em;
+    font-size: 2rem;
     border-radius: 8px;
     border: none;
     background-color: blueviolet;

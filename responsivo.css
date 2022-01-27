@@ -1,0 +1,132 @@
+@media screen and (min-width: 0){
+    .professor{
+        display: inline-block;
+        max-width: 156px;
+        max-height: 156px;
+    }
+
+    html {
+        font-size: 40%;
+    }
+
+
+    
+    .caixa__titulo img{
+        width: 25%;
+        height: 25%;
+    }
+
+    .citacao{
+        display: none;
+    }
+
+   
+}
+
+
+@media screen and (min-width: 608px){
+   /*  .professor{
+        display: none;
+    } */
+    .professor{
+        display: inline-block;
+        max-width: 484px;
+        max-height: 484px;
+    }
+    
+    html {
+        font-size: 50%;
+    }
+    
+    .caixa__titulo img{
+        width: 40%;
+        height: 40%;
+    }
+    .citacao{
+        display: inline-block;
+    }
+
+}
+
+@media screen and (min-width: 860px){
+    /*  .professor{
+         display: none;
+     } */
+     .professor{
+         display: inline-block;
+         max-width: 626px;
+         max-height: 626px;
+     }
+     
+     html {
+         font-size: 50%;
+     }
+     
+     .caixa__titulo img{
+         width: 40%;
+         height: 40%;
+     }
+ 
+ }
+ 
+
+
+@media screen and (min-width: 992px){
+    .professor{
+        display: inline-block;
+        max-width: 626px;
+        max-height: 626px;
+    }
+
+    html {
+        font-size: 80%;
+    }
+
+    .caixa__titulo img{
+        width: 50%;
+        height: 50%;
+    }
+
+
+
+}
+
+@media screen and (min-width: 992px){
+    .professor{
+        display: inline-block;
+        max-width: 626px;
+        max-height: 626px;
+    }
+
+    html {
+        font-size: 80%;
+    }
+
+
+    .caixa__titulo img{
+        width: 50%;
+        height: 50%;
+    }
+
+
+}
+
+@media screen and (min-width: 1300px){
+    .professor{
+        display: inline-block;
+        max-width: 626px;
+        max-height: 626px;
+    }
+
+    html {
+        font-size: 100%;
+    }
+
+
+    .caixa__titulo img{
+        width: 50%;
+        height: 50%;
+    }
+
+    
+}

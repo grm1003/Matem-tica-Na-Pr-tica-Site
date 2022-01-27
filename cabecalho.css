@@ -1,15 +1,15 @@
 
 .titulo {
-    font-size: 5em;
+    font-size: 5rem;
     margin: 5%;
 }
 .texto {
-    font-size: 2em;
+    font-size: 2rem;
    
 }
 
 .chamado{
-font-size: 3em;
+font-size: 3rem;
 font-weight: 600;
 margin-bottom: 8%;
 
@@ -17,7 +17,7 @@ margin-bottom: 8%;
 
 
 .frase{
-    font-size: 3em;
+    font-size: 3rem;
     font-weight: 600;
     
     }
@@ -47,7 +47,5 @@ margin-bottom: 8%;
     margin: 10%;
 }
 
-.caixa__titulo img{
-    width: 50%;
-    height: 50%;
-}
+
+
