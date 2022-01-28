@@ -5,6 +5,7 @@
 }
 .texto {
     font-size: 2rem;
+    justify-content: flex-start;
    
 }
 
@@ -36,11 +37,11 @@ margin-bottom: 8%;
 
 .caixa__texto{
   
-    width: 20%;
-    height: 30%;
+    width: 40%;
+    height: 20%;  
     margin-left: 2%;
 }
-
+ 
 
 .caixa__titulo {
     display: flex;
